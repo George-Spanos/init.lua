@@ -1,1 +1,1 @@
-print("hello from lua")
+require("gspanos")
