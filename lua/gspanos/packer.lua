@@ -12,10 +12,11 @@ return require('packer').startup(function(use)
 	use 'navarasu/onedark.nvim'
     use 'mbbill/undotree'
     use 'nvim-tree/nvim-web-devicons'
+    use 'lewis6991/gitsigns.nvim'
     use {
-        'lewis6991/gitsigns.nvim',
+        'nvim-lualine/lualine.nvim',
+        requires = { 'kyazdani42/nvim-web-devicons', opt = true }
     }
-    use 'feline-nvim/feline.nvim'
     use 'mfussenegger/nvim-dap'
     use {
         'VonHeikemen/lsp-zero.nvim',
