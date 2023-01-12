@@ -1,5 +1,5 @@
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>e", vim.cmd.Ex)
+vim.keymap.set("n", "<leader>e", vim.cmd.Ex,{desc ="Open file exporer"})
 vim.opt.guicursor = ""
 
 vim.opt.nu = true
