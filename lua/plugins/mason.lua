@@ -7,7 +7,12 @@ return {
 		ensure_installed = {
 			"stylua",
 			"shfmt",
-			-- "flake8",
+            "angular-language-server",
+            "gopls",
+            "goimports",
+            "eslint_d",
+            "prettierd",
+            "typescript-language-server"
 		},
 	},
 	---@param opts MasonSettings | {ensure_installed: string[]}
