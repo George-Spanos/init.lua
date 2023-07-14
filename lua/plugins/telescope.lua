@@ -9,4 +9,9 @@ return {
 		{ "<leader>sb", "<cmd>Telescope buffers<cr>", mode = { "n" }, desc = "Search Buffers" },
 		{ "<leader>sh", "<cmd>Telescope help_tags<cr>", mode = { "n" }, desc = "Search Help" },
 	},
+    config = {
+        defaults = {
+            path_display = {"smart"}
+        }
+    }
 }
