@@ -21,6 +21,7 @@
   "nvim-treesitter-angular": { "branch": "topic/jsx-fix", "commit": "024f5fbcc6fab26aa5699cd632e02d0ae98c2314" },
   "nvim-web-devicons": { "branch": "master", "commit": "9ab9b0b894b2388a9dbcdee5f00ce72e25d85bf9" },
   "plenary.nvim": { "branch": "master", "commit": "bda256fab0eb66a15e8190937e417e6a14ee5d72" },
+  "telescope-undo.nvim": { "branch": "main", "commit": "3dec002ea3e7952071d26fbb5d01e2038a58a554" },
   "telescope.nvim": { "branch": "master", "commit": "c1a2af0af69e80e14e6b226d3957a064cd080805" },
   "which-key.nvim": { "branch": "main", "commit": "d871f2b664afd5aed3dc1d1573bef2fb24ce0484" },
   "window-picker": { "branch": "main", "commit": "6e9875711b9d5cefcf77cc6e30dcce53135b9cc5" }
