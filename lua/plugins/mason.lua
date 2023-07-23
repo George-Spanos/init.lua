@@ -9,6 +9,7 @@ return {
 			"shfmt",
             "angular-language-server",
             "gopls",
+            "gofumpt",
             "goimports",
             "eslint_d",
             "prettierd",
