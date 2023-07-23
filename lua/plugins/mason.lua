@@ -12,7 +12,8 @@ return {
             "goimports",
             "eslint_d",
             "prettierd",
-            "typescript-language-server"
+            "typescript-language-server",
+            "lua-language-server"
 		},
 	},
 	---@param opts MasonSettings | {ensure_installed: string[]}
