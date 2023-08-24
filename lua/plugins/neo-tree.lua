@@ -1,7 +1,7 @@
 return {
 	"nvim-neo-tree/neo-tree.nvim",
 	keys = {
-		{ "<leader>e", "<cmd>NeoTreeFloatToggle<cr>", desc = "Open NeoTree" },
+		{ "<leader>e", "<cmd>Neotree float<cr>", desc = "Open NeoTree" },
 	},
 	dependencies = {
 		"nvim-lua/plenary.nvim",
